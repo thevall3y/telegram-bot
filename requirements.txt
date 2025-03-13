@@ -1,0 +1,5 @@
+aiogram
+yt-dlp
+ytmusicapi
+mutagen
+requests
